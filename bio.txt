@@ -1,1 +1,13 @@
 Put my bio info here.
+
+[Advice from video on how to write a good bio]
+1)Identify your audience
+2)Start with a powerful sentence
+3)Tell a compelling story
+4)Include a call to action
+5) Use personality
+
+
+Practice:
+Hello! My name is Carlos and I'm a student who's currrently learning how to code HTML & CSS,
+I'll be learning JAVA soon....

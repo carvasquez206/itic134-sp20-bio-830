@@ -10,4 +10,5 @@ Put my bio info here.
 
 Practice:
 Hello! My name is Carlos and I'm a student who's currrently learning how to code HTML & CSS,
-I'll be learning JAVA soon....
+I'll be learning JAVA soon.
+Github is a venue for me to practice at the moment...
